@@ -1,5 +1,7 @@
 .user-component {
+    padding-top: 10px;
     justify-content: space-between;
+    margin-bottom: 20px;
 }
 
 .user-component,
@@ -51,4 +53,7 @@
 .user-component__time {
     margin-bottom: 10px;
     display: block;
+}
+.chats-box {
+    border-top: var(--main-border);
 }
