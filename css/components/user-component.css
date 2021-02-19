@@ -57,3 +57,8 @@
 .chats-box {
     border-top: var(--main-border);
 }
+
+.user-component__subtitle i {
+    margin-left: 5px;
+    color: tomato;
+}
